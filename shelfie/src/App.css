@@ -1,0 +1,7 @@
+.body {
+  background:yellow;
+  height: 800px;
+  width:1500px;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Monasterio_Khor_Virap%2C_Armenia%2C_2016-10-01%2C_DD_25.jpg/800px-Monasterio_Khor_Virap%2C_Armenia%2C_2016-10-01%2C_DD_25.jpg") 600px 500px;
+  font: bold 150px green (77, 77, 64) ;
+}
